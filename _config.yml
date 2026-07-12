@@ -1,7 +1,7 @@
-title: My Portfolio
+title: Your Name
 description: My personal website
 
-remote_theme: BDHU/minimalist
+remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-remote-theme
