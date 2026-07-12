@@ -4,8 +4,12 @@
 @import "minimal";
 
 /* Change the whole page background */
-body {
+/*body {
   background-color: #f5f7fa;
+}*/
+
+body {
+  background-color: red !important;
 }
 
 /* Change main text color */
