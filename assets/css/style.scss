@@ -3,20 +3,25 @@
 
 @import "minimal";
 
+/* Whole browser background */
 body {
-  background: #f2f4f8 !important;
+  background-color: #e8eef5 !important;
 }
 
+/* Main white page container */
 .wrapper {
-  background: #9e4e20 !important;
+  background-color: transparent !important;
 }
 
-header h1 {
-  color: #1f2937 !important;
+/* Left sidebar */
+header {
+  background-color: #dbeafe !important;
 }
 
-header p {
-  color: #4b5563 !important;
+/* Main content area */
+section {
+  background-color: #ffffff !important;
+  padding: 30px;
 }
 
 header p.view {
