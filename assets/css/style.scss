@@ -1,0 +1,24 @@
+---
+---
+
+@import "minimal";
+
+/* Change the whole page background */
+body {
+  background-color: #f5f7fa;
+}
+
+/* Change main text color */
+body {
+  color: #222;
+}
+
+/* Change sidebar background */
+.wrapper {
+  background-color: #ffffff;
+}
+
+/* Hide "View My GitHub Profile" link */
+.sidebar a[href*="github.com"] {
+  display: none;
+}
