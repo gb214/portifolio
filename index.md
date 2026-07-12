@@ -10,10 +10,11 @@ Welcome to my personal website.
 
 I am a developer/researcher/designer interested in technology.
 
-## Projects
+## Research
 
-- Project 1
-- Project 2
+- Ax-Schanuel and foliations
+- Stacks and Log Geometry
+- Singular Foliations
 
 ## Contact
 
