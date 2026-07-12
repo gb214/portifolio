@@ -5,8 +5,7 @@
 
 /* Whole browser background */
 body {
-  background-color: #e8eef5 !important;
-}
+  background-color: #e9eef5 !important;   /* soft blue-gray */}
 
 /* Main white page container */
 .wrapper {
@@ -15,13 +14,11 @@ body {
 
 /* Left sidebar */
 header {
-  background-color: #dbeafe !important;
-}
+  background-color: #dbe7f5 !important;   /* lighter blue */}
 
 /* Main content area */
 section {
-  background-color: #ffffff !important;
-  padding: 30px;
+  background-color: #f8fafc !important;   /* near-white but not white */  padding: 30px;
 }
 
 header p.view {
