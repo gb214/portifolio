@@ -3,26 +3,22 @@
 
 @import "minimal";
 
-/* Change the whole page background */
-/*body {
-  background-color: #f5f7fa;
-}*/
-
 body {
-  background-color: red !important;
+  background-color: #f2f4f8 !important;
 }
 
-/* Change main text color */
-body {
-  color: #222;
-}
-
-/* Change sidebar background */
 .wrapper {
-  background-color: #ffffff;
+  background-color: #ffffff !important;
 }
 
-/* Hide "View My GitHub Profile" link */
-.sidebar a[href*="github.com"] {
-  display: none;
+header h1 {
+  color: #1f2937 !important;
+}
+
+header p {
+  color: #4b5563 !important;
+}
+
+header a {
+  display: none !important;
 }
